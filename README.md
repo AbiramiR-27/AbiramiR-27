@@ -67,20 +67,3 @@ class Abirami:
 <!-- blog-feed-end -->
 
 ---
-
-## 📊 Neural Network Status
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbiramiR-27&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=00000000" alt="Abirami's GitHub Stats" height="180px" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiramiR-27&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="Top Languages" height="180px" />
-  </a>
-</p>
-
-```text
-Loss Function : Minimize Ignorance
-Optimizer     : Continuous Learning
-Epochs        : ∞ (Continuous Loop)
-```
