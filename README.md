@@ -31,21 +31,6 @@ class Abirami:
     }
 ```
 
----
-
-## 🚀 Beyond the Code
-
-Some people build websites. Some people train models. Some people design hardware. 
-
-**I'm interested in what happens when all of them work together.**
-
-* 👁️ **Computer Vision**: Training deep learning models (Image Segmentation, SAM, BiRefNet, MODNet) to perceive and understand the world.
-* ⛓️ **Decentralized Systems**: Exploring blockchain architecture, smart contracts, and Web3 infrastructure.
-* 📡 **Internet of Things (IoT)**: Connecting sensors and embedded hardware (ESP32) to intelligent software.
-* 🌍 **Open Source**: Collaborating on major community ecosystems like **freeCodeCamp**.
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### AI, ML & Computer Vision
