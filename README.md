@@ -62,7 +62,7 @@ class Abirami:
 
 <!-- blog-feed-start -->
 * 🧠 **Exploring Image Segmentation Models**: A deep dive into SAM and BiRefNet architectures.
-* ⛓️ **Smart Contracts 101**: My learnings in Solidity and Web3 fundamentals.
+* ⛓️ **Smart Contracts**: My learnings in Solidity and Web3 fundamentals.
 * 📡 **IoT & AI**: How to run light ML models on ESP32 microcontrollers.
 <!-- blog-feed-end -->
 
