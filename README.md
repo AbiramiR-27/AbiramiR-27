@@ -27,7 +27,7 @@ class Abirami:
         "frameworks": ["PyTorch", "OpenCV", "Flask"],
         "hardware": "ESP32",
         "databases": ["MongoDB", "MySQL"],
-        "languages": ["Python", "JavaScript", "C++", "HTML/CSS"]
+        "languages": ["Python", "Java", "HTML/CSS"]
     }
 ```
 
@@ -40,7 +40,6 @@ class Abirami:
 
 ### Web & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -54,7 +53,6 @@ class Abirami:
 
 ### IoT & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -63,7 +61,6 @@ class Abirami:
 <!-- blog-feed-start -->
 * 🧠 **Exploring Image Segmentation Models**: A deep dive into SAM and BiRefNet architectures.
 * ⛓️ **Smart Contracts**: My learnings in Solidity and Web3 fundamentals.
-* 📡 **IoT & AI**: How to run light ML models on ESP32 microcontrollers.
 <!-- blog-feed-end -->
 
 ---
